@@ -44,3 +44,12 @@ figcaption {
   color: black;
   text-decoration: none;
 }
+
+#details a:hover {
+  color: aqua;
+  text-decoration: underline;
+}
+
+#details a:active {
+  color: red;
+}

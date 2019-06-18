@@ -4,6 +4,9 @@
     property: value;
 }
 */
+@@import "<style>
+@import url('https://fonts.googleapis.com/css?family=Elsie&display=swap');
+</style>"
 p {
   font-size: 1em;
   line-height: 1.5em;

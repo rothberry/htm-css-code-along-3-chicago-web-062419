@@ -26,3 +26,8 @@ figcaption {
   color: white;
   text-shadow: 0 2px 3px #000;
 }
+
+#logo { /* selector elements w/ #logo*/
+  background: aqua;
+
+}

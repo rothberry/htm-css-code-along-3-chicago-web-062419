@@ -33,5 +33,6 @@ figcaption {
 }
 
 #logo h1 {
+  font-family: 'Elsie Swash Caps', cursive;
   background: red;
 }

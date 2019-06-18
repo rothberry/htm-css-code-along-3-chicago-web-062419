@@ -4,7 +4,8 @@
     property: value;
 }
 */
-@@import url('https://fonts.googleapis.com/css?family=Elsie&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps&display=swap');
+
 p {
   font-size: 1em;
   line-height: 1.5em;
@@ -14,7 +15,7 @@ figcaption {
   /*font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "New Times Roman", serif;*/
-  font: normal 0.75em/1.5em Elsie, cursive;
+  font-family: 'Elsie Swash Caps', cursive;
   color: #777;
   text-align: right;
 }

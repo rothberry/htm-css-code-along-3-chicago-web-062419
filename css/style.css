@@ -31,3 +31,7 @@ figcaption {
   background: aqua;
 
 }
+
+#logo h1 {
+  background: red;
+}
